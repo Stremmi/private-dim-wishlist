@@ -1,5 +1,5 @@
 title:Stremmi's Wishlist
-description:last update 2021-03-14
+description:last update 2021-12-23
 
 // BxR-55 Battler (PvP)
 //notes:PvP-
@@ -174,4 +174,43 @@ dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,47981717
 dimwishlist:item=1679868061&perks=1047830412,791862061,3161816588,2679249093
 dimwishlist:item=1679868061&perks=1047830412,791862061,1428297954,2679249093
 dimwishlist:item=1679868061&perks=1047830412,791862061,1556840489,2679249093
+
+// Fractethyst (PvE)
+//notes:PvE-
+dimwishlist:item=3184681056&perks=1300023272,791862061,2117683199,2360754333
+
+// Xenoclast IV (PvE)
+//notes:PvE-
+dimwishlist:item=2891672170&perks=1047830412,791862061,3096702027,2360754333
+dimwishlist:item=2891672170&perks=1047830412,791862061,1631667848,2679249093
+
+// The Comedian (Adept) (PvE)
+//notes:PvE-
+dimwishlist:item=2443900757&perks=4090651448,791862061,1820235745,11612903
+
+// Fatebringer (Timelost) (PvE)
+//notes:PvE-
+dimwishlist:item=1216319404&perks=1482024992,106909392,1774574192,4104185692
+
+// Found Verdict (Timelost) (PvE)
+//notes:PvE-
+dimwishlist:item=631439337&perks=1047830412,791862061,3161816588,2679249093
+
+// Vision of Confluence (Timelost) (PvE)
+//notes:PvE-
+dimwishlist:item=690668916&perks=1840239774,1561002382,2946784966,3824105627
+dimwishlist:item=690668916&perks=1840239774,1561002382,3592538738,4104185692
+
+// Hezen Vengeance (Timelost) (PvE)
+//notes:PvE-
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,3523296417
+
+// Praedyth's Revenge (Timelost) (PvE)
+//notes:PvE-
+dimwishlist:item=1987769101&perks=3250034553,106909392,1774574192,4104185692
+
+// Corrective Measure (Timelost) (PvE)
+//notes:PvE-
+dimwishlist:item=3796510434&perks=1840239774,106909392,3523296417,11612903
+dimwishlist:item=3796510434&perks=1840239774,106909392,1820235745,2213355989
 
