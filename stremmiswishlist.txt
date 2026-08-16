@@ -1,20 +1,21 @@
 title:Stremmi's Selection
 
 // Blast Furnace - Blast Furnace (pve)
-//notes: Tier 3 tags:pve
-dimwishlist:item=52683113&perks=1549370717,1817983009,2034764268
-dimwishlist:item=52683113&perks=1549370717,1817983009,2544048574
+//notes: tier 3 tags:pve
+dimwishlist:item=52683113&perks=3891536761,3640170453
 
 
 // Eyasluna - Eyasluna PvP (pvp)
-//notes: Tier 5 | MW: Range, Stability, Handling tags:pvp
+//notes: Tier 5
+MW: Range, Stability, Handling tags:pvp
 dimwishlist:item=386864872&perks=111235976,1968098204,191144788,332733060,3804163130
 dimwishlist:item=386864872&perks=1124871858,1968098204,191144788,332733060,3804163130
 dimwishlist:item=386864872&perks=2860123632,1968098204,191144788,332733060,3804163130
 
 
 // Eyasluna - Eyasluna PvP (pve)
-//notes: Tier 5 | MW: Stability, Handling, Reload tags:pve
+//notes: Tier 5
+MW: Stability, Handling, Reload tags:pve
 dimwishlist:item=386864872&perks=111235976,1968098204,1183436451,1171887445,3804163130
 dimwishlist:item=386864872&perks=111235976,1968098204,1183436451,1817983009,3804163130
 dimwishlist:item=386864872&perks=111235976,1968098204,1183436451,2078520142,3804163130
@@ -30,19 +31,22 @@ dimwishlist:item=386864872&perks=1124871858,1709045111,1183436451,2078520142,380
 
 
 // Eyasluna - Eyasluna PvP (pvp)
-//notes: Tier 3 | MW: Range, Stability, Handling tags:pvp
+//notes: Tier 3
+MW: Range, Stability, Handling tags:pvp
 dimwishlist:item=386864872&perks=191144788,332733060,3804163130
 
 
 // Eyasluna - Eyasluna PvP (pve)
-//notes: Tier 3 | MW: Stability, Handling, Reload tags:pve
+//notes: Tier 3
+MW: Stability, Handling, Reload tags:pve
 dimwishlist:item=386864872&perks=1183436451,1171887445,3804163130
 dimwishlist:item=386864872&perks=1183436451,1817983009,3804163130
 dimwishlist:item=386864872&perks=1183436451,2078520142,3804163130
 
 
 // Crimil's Dagger - Crimil's Dagger PvP (pvp)
-//notes: Tier 5 | MW: Range, Stability tags:pvp
+//notes: Tier 5
+MW: Range, Stability tags:pvp
 dimwishlist:item=1617917863&perks=111235976,3267421167,2396422520,2889515627,1831023215
 dimwishlist:item=1617917863&perks=111235976,3267421167,2396422520,332733060,1831023215
 dimwishlist:item=1617917863&perks=111235976,3267421167,191144788,2889515627,1831023215
@@ -70,7 +74,8 @@ dimwishlist:item=1617917863&perks=2860123632,1968098204,191144788,332733060,1831
 
 
 // Crimil's Dagger - Crimil's Dagger PvP (pvp)
-//notes: Tier 3 | MW: Range, Stability tags:pvp
+//notes: Tier 3
+MW: Range, Stability tags:pvp
 dimwishlist:item=1617917863&perks=2396422520,2889515627,1831023215
 dimwishlist:item=1617917863&perks=2396422520,332733060,1831023215
 dimwishlist:item=1617917863&perks=191144788,2889515627,1831023215
@@ -78,19 +83,16 @@ dimwishlist:item=1617917863&perks=191144788,332733060,1831023215
 
 
 // Blast Furnace - Blast Furnace (pve)
-//notes: Tier 5 | MW: Stability, Handling, Reload tags:pve
-dimwishlist:item=2631356658&perks=3048246338,1783397184,1549370717,1817983009,2034764268
-dimwishlist:item=2631356658&perks=3048246338,1783397184,1549370717,1817983009,2544048574
-dimwishlist:item=2631356658&perks=3048246338,1709045111,1549370717,1817983009,2034764268
-dimwishlist:item=2631356658&perks=3048246338,1709045111,1549370717,1817983009,2544048574
-dimwishlist:item=2631356658&perks=1124871858,1783397184,1549370717,1817983009,2034764268
-dimwishlist:item=2631356658&perks=1124871858,1783397184,1549370717,1817983009,2544048574
-dimwishlist:item=2631356658&perks=1124871858,1709045111,1549370717,1817983009,2034764268
-dimwishlist:item=2631356658&perks=1124871858,1709045111,1549370717,1817983009,2544048574
+//notes: tier 5 - MW: stability, handling, reload tags:pve
+dimwishlist:item=2631356658&perks=839105230,106909392,3891536761,3640170453
+dimwishlist:item=2631356658&perks=839105230,3230963543,3891536761,3640170453
+dimwishlist:item=2631356658&perks=1840239774,106909392,3891536761,3640170453
+dimwishlist:item=2631356658&perks=1840239774,3230963543,3891536761,3640170453
 
 
 // Igneous Hammer - Igneous Hammer (pvp)
-//notes: Tier 3 | MW: Range, Stability, Handling tags:pvp
+//notes: Tier 3
+MW: Range, Stability, Handling tags:pvp
 dimwishlist:item=2776092652&perks=191144788,332733060,1939575288
 dimwishlist:item=2776092652&perks=191144788,332733060,4236235115
 dimwishlist:item=2776092652&perks=191144788,2889515627,1939575288
@@ -98,7 +100,8 @@ dimwishlist:item=2776092652&perks=191144788,2889515627,4236235115
 
 
 // Igneous Hammer - Igneous Hammer (pvp)
-//notes: Tier 5 | MW: Range, Stability, Handling tags:pvp
+//notes: Tier 5
+MW: Range, Stability, Handling tags:pvp
 dimwishlist:item=2776092652&perks=1124871858,1968098204,191144788,332733060,1939575288
 dimwishlist:item=2776092652&perks=1124871858,1968098204,191144788,332733060,4236235115
 dimwishlist:item=2776092652&perks=1124871858,1968098204,191144788,2889515627,1939575288
@@ -110,7 +113,8 @@ dimwishlist:item=2776092652&perks=111235976,1968098204,191144788,2889515627,4236
 
 
 // Igneous Hammer - Igneous Hammer (pve)
-//notes: Tier 3 | MW: Stability, Handling, Reload tags:pve
+//notes: Tier 3
+MW: Stability, Handling, Reload tags:pve
 dimwishlist:item=2776092652&perks=1183436451,2675184851
 dimwishlist:item=2776092652&perks=1183436451,3007133316
 dimwishlist:item=2776092652&perks=4223976499,2675184851
